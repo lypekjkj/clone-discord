@@ -7,6 +7,15 @@ const config: Config = {
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
+    colors: {
+      discordgray: '#303339',
+      discordservers: '#1f1e22',
+      discordchats: '#2a2d30',
+      discordblue: '#5865F2',
+      discordwhite: '#fff',
+      discordhover: '#404348',
+      discordchat: '#383a40',
+    },
     extend: {
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",

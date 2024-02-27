@@ -23,10 +23,6 @@ export default function HeaderCategorys() {
                     <HiHashtag className="text-discordwhite/50 text-[20px]" />
                     <h1 className="text-discordwhite/50 text-[14px] font-medium">readme</h1>
                 </a>
-                <a href="/readme" className="flex items-center space-x-2 hover:bg-discordhover/50 px-1 py-1.5 rounded-md transition-colors">
-                    <HiHashtag className="text-discordwhite/50 text-[20px]" />
-                    <h1 className="text-discordwhite/50 text-[14px] font-medium">porno-gay</h1>
-                </a>
             </div>
         </main>
     )

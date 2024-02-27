@@ -1,6 +1,6 @@
 export default function HeaderServers() {
     return (
-        <main className="w-[72px] h-screen bg-discordservers">
+        <main className="w-[72px] h-screen bg-discordservers max-sm:hidden">
             <div className="h-[74px] flex justify-center items-center">
                 <div className="bg-discordgray p-3 rounded-full mx-3 hover:bg-discordblue hover:rounded-2xl transition-all ease-linear cursor-pointer">
                     <img src="discord.svg" className="h-[22px]" />
